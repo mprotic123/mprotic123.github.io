@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;400&display=swap");
+  @import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;400&display=swap");
 
 /* reset page */
 * {
@@ -123,7 +123,7 @@ h2 {
 }
 
 .social:hover {
-  transform: scale(1.5); /* 150% */
+  transform: scale(1.5); /*150%*/
 }
 
 /* work & about section */
