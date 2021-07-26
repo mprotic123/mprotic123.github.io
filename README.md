@@ -13,16 +13,17 @@
 
 ## Getting Started
 
-**To clone this project**
-**Run command: $git clone [name of the repo]**
-**or press the green Code button in the upper right corner and choose to download from the Download ZIP link.**
+- To clone this project:
+- Run command: $git clone [name of the repo].
+- Press the green Code button in the upper right corner and choose to download from the Download ZIP link.
+
 
 ### Prerequisites
 
 - Code editor (VS Code, Sublime, Atom)
 
 ## Live Demo
-- [Personal Portfolio](https://mprotic123.github.io)
+- [Personal Portfolio](https://mprotic123.github.io/personal-portfolio)
 
 ## Authors
 
