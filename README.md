@@ -17,6 +17,9 @@
 **Run command: $git clone [name of the repo]**
 **or press the green Code button in the upper right corner and choose to download from the Download ZIP link.**
 
+## Live Demo Link
+- Personal Portfolio: [mprotic123.github.io](https://mprotic123.github.io)
+
 ### Prerequisites
 
 - Code editor (VS Code, Sublime, Atom)
