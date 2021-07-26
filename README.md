@@ -23,7 +23,7 @@
 - Code editor (VS Code, Sublime, Atom)
 
 ## Live Demo
-- [Personal Portfolio](https://mprotic123.github.io/index.html)
+- [Personal Portfolio](https://mprotic123.github.io/personal-portfolio)
 
 ## Authors
 
