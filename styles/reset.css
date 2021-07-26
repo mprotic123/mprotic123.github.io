@@ -1,0 +1,228 @@
+@media only screen and (min-width: 1000px) {
+    .background {
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: 1500px 1500px;
+      margin-bottom: 7%;
+    }
+  
+    .title_detail {
+      position: static;
+      width: 920px;
+      font-style: normal;
+      font-weight: 800;
+      font-size: 48px;
+      line-height: 60px;
+      text-align: center;
+      letter-spacing: 0.37px;
+      color: #172b4d;
+      margin: 24px 0;
+    }
+  
+    .headline h2 {
+      position: static;
+      width: 920px;
+      font-style: normal;
+      font-weight: 800;
+      font-size: 48px;
+      line-height: 60px;
+      text-align: center;
+      letter-spacing: 0.37px;
+      color: #36b37e;
+      margin: 24px 0;
+    }
+  
+    .menu {
+      display: none;
+    }
+  
+    .toolbar ul {
+      width: 100%;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      padding: 0;
+      position: static;
+      height: 40px;
+      top: 16px;
+    }
+  
+    .nav-bar-list li {
+      display: flex;
+      position: static;
+      width: 59px;
+      height: 20px;
+      font-family: inherit;
+      justify-content: center;
+      align-items: center;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 15px;
+      margin: 0;
+    }
+  
+    .nav-bar-list a {
+      color: #344563;
+    }
+  
+    .logo {
+      display: none;
+    }
+  
+    .headline p {
+      font-family: inherit;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 20px;
+      line-height: 32px;
+      text-align: center;
+    }
+  
+    .indicator {
+      display: none;
+    }
+  
+    .work_cards {
+      display: none;
+    }
+  
+    .desktop_work_cards {
+      padding: 0;
+      display: grid;
+      grid-template-columns: repeat(3, 405px);
+      row-gap: 37px;
+      column-gap: 24px;
+      justify-content: space-around;
+    }
+
+    .card_img1 {
+        width: 370px;
+        height: 200px;
+        background-image: url("../img/icon-languages.svg");
+        background-repeat: no-repeat;
+        margin-left: 45%;
+      }
+      
+      .card_img2 {
+        width: 370px;
+        height: 200px;
+        background-image: url("../img/frameworks-icon2.svg");
+        background-repeat: no-repeat;
+        margin: auto;
+      }
+      
+      .card_img3 {
+        width: 370px;
+        height: 200px;
+        background-image: url("../img/skills-icon.svg");
+        background-repeat: no-repeat;
+        margin: auto;
+      }
+  
+    #section {
+      display: none;
+    }
+  
+    .desktop_form {
+      display: flex;
+      flex-direction: row;
+      height: 500px;
+      align-items: center;
+      padding: 0 24px;
+      justify-content: space-around;
+    }
+  
+    .dbg {
+      background-repeat: no-repeat;
+      background-position: right center;
+    }
+  
+    .contact_me {
+      position: static;
+      min-width: 463px;
+      min-height: 320px;
+      font-family: inherit;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 30px;
+      line-height: 52px;
+      display: flex;
+      align-items: flex-start;
+      color: #172b4d;
+      margin-right: 15px;
+    }
+  
+    .form {
+      margin: 0;
+      padding-top: 40px;
+      margin-left: 50px;
+    }
+  
+    input[type="text"],
+    input[type="email"],
+    textarea {
+      font-family: inherit;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 15px;
+      line-height: 24px;
+      position: static;
+      width: 684px;
+      height: 48px;
+      background: #fff;
+      border: 1px solid #d0d9d4;
+      box-sizing: border-box;
+      border-radius: 4px;
+      margin-bottom: 10px;
+    }
+  
+    #subject {
+      height: 114px;
+      width: 684px;
+      border: 1px solid #60c095;
+      box-sizing: border-box;
+    }
+  
+    .ma_mail {
+      display: none;
+    }
+  
+    .divide {
+      display: flex;
+      align-items: center;
+      border-top: none;
+      width: 100%;
+      border-color: #dbd8d7;
+      margin-bottom: 15px;
+      background-color: #fff;
+    }
+  
+    .olio {
+      margin-left: 10%;
+    }
+  
+    .socials {
+      display: table;
+      margin: 0 auto;
+    }
+  
+    .social2 {
+      min-width: 696px;
+      list-style: none;
+    }
+  
+    .social2 li {
+      display: inline;
+    }
+  
+    input[type="submit"] {
+      margin-right: 555px;
+    }
+  
+    .abg {
+      background-repeat: no-repeat;
+      background-position: right center;
+    }
+  }
+  
