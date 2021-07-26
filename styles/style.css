@@ -401,7 +401,7 @@ button:hover {
   height: 200px;
   background-image: url("../img/icon-languages.svg");
   background-repeat: no-repeat;
-  margin-left: 34%;
+  margin-left: 30%;
 }
 
 .card_img2 {
@@ -409,7 +409,7 @@ button:hover {
   height: 200px;
   background-image: url("../img/frameworks-icon2.svg");
   background-repeat: no-repeat;
-  margin: auto;
+  margin-left: -25px;
 }
 
 .card_img3 {
@@ -417,7 +417,7 @@ button:hover {
   height: 200px;
   background-image: url("../img/skills-icon.svg");
   background-repeat: no-repeat;
-  margin: auto;
+  margin-left: -25px;
 }
 
 .contact_me {
