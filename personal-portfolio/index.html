@@ -10,7 +10,7 @@
       href="https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet"
     />
-    <title>Portfolio</title>
+    <title>Milan Protic Portfolio</title>
   </head>
   <body>
     <header class="toolbar">
@@ -34,11 +34,11 @@
         need coded, don’t hestiate to contact me.
       </p>
       <ul class="social">
-        <li><img src="icons/twitter.svg" alt=#/></li>
-        <li><img src="icons/linkedin.svg" alt=#/></li>
-        <li><img src="icons/medium.svg" alt=#/></li>
-        <li><img src="icons/github.svg" alt=#/></li>
-        <li><img src="icons/angellist.svg" alt=#/></li>
+        <li><img src="icons/twitter.svg" alt="Twitter account"/></li>
+        <li><img src="icons/linkedin.svg" alt="LinkedIn account"/></li>
+        <li><img src="icons/medium.svg" alt="Medium account"/></li>
+        <li><img src="icons/github.svg" alt="Github account"/></li>
+        <li><img src="icons/angellist.svg" alt="AngelList account"/></li>
       </ul>
       <button type="button" class="btn expand">
         <i class="material-icons">expand_more</i>
@@ -324,9 +324,12 @@
       </p>
       <br>
       <form action="https://formspree.io/f/xrgrapke" method="POST">
-      <input type="text" id="fname" name="firstname" maxlength="30" placeholder=" Full Name" required><br><br>
-      <input type="email" id="email" name="_replyto" placeholder=" Email Address" required><br><br>
-      <textarea id="subject" name="message" maxlength="500" placeholder=" Enter text here" required></textarea>
+      <label for="first-name">First Name</label> 
+      <input type="text" id="fname" name="firstname" maxlength="30" required><br><br>
+      <label for="e-mail">E-mail</label> 
+      <input type="email" id="email" name="_replyto" required><br><br>
+      <label for="message">Enter your message here</label>
+      <textarea id="subject" name="message" maxlength="500" required></textarea>
         <input type="submit" value="Get in touch">
       </form> 
       <br>
