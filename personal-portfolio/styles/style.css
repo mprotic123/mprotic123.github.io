@@ -83,6 +83,40 @@ header {
   margin-right: 24px;
 }
 
+.mobile-nav {
+  position: fixed;
+  display: block;
+  top: 0;
+  left: 100%;
+  z-index: 98;
+  background-color: #fff;
+  margin-top: 60px;
+}
+
+.mobile-nav ul {
+  display: block;
+  width: 100%;
+  font-size: 32px;
+  line-height: 44px;
+  font-weight: 600;
+  transition: 0.4s;
+  margin: 0;
+}
+
+.mobile-nav ul li {
+  padding: 10px 0;
+}
+
+.mobile-nav ul li a {
+  text-decoration: none;
+  color: #3a4a42;
+}
+
+.mobile-nav.is-active {
+  left: 70%;
+  width: 30%;
+}
+
 /* headline section */
 .headline {
   display: flex;

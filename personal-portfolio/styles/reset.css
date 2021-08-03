@@ -43,6 +43,10 @@
       height: 40px;
       top: 16px;
     }
+
+    .menu .btn {
+      display: none;
+    }
   
     .nav-bar-list li {
       display: flex;
@@ -60,7 +64,11 @@
   
     .nav-bar-list a {
       color: #344563;
+      margin: auto;
+      margin-top: 5px;
     }
+
+    
   
     .headline p {
       font-family: inherit;
