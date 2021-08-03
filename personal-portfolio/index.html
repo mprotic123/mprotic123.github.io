@@ -21,9 +21,33 @@
         <button type="button" class="btn">
           <i class="material-icons">menu</i>
         </button>
+        <ul class="nav-bar-list">
+          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
       </nav>
     </header>
-    <section class="headline background">
+
+    <nav class="mobile-nav">
+      <ul>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+
+    <script>
+      const menu_btn = document.querySelector('.btn');
+      const mobile_menu = document.querySelector('.mobile-nav');
+
+menu_btn.addEventListener('click', function () {
+  menu_btn.classList.toggle('is-active');
+  mobile_menu.classList.toggle('is-active');
+});
+    </script>
+
+    <section class="headline background" id="portfolio">
       <div>
         <h1>Hey there. I’m Milan</h1>
         <p>I’m a software developer</p>
@@ -223,7 +247,7 @@
         </article>
       </div>
     </section>
-    <section class="about section">
+    <section class="about section" id="about">
       <section class="info">
         <h1>About Me</h1>
         <p>
@@ -318,7 +342,7 @@
         </article>
       </div>
     </section>
-    <section class="section desktop_form dbg">
+    <section class="section desktop_form dbg" id="contact">
       <p class="contact_me">
         I'm always interested in hearing about new projects, so if you'd like to chat please get in touch.
       </p>
