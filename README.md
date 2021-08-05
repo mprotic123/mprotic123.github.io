@@ -1,15 +1,11 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Portfolio
-
-> Assigment from Microverse: Copy of a Portfolio design from Figma Template
+# Milan Protic's Personal-Portfolio - Mobile Menu
 
 ![screenshot](./app_screenshot.png)
 
-## Built With
-
+# BUILT WITH
 - HTML
-- CSS (using Flex and Grid)
+- CSS
+- JavaScript
 
 ## Getting Started
 
@@ -17,25 +13,33 @@
 - Run command: $git clone [name of the repo].
 - Press the green Code button in the upper right corner and choose to download from the Download ZIP link.
 
+# LIVE DEMO
 
-### Prerequisites
-
-- Code editor (VS Code, Sublime, Atom)
-
-## Live Demo
 - [Personal Portfolio](https://mprotic123.github.io/personal-portfolio)
 
-## Authors
+# AUTHORS
 
-👤 **Author1**
+👤 **Milan Protić**
+ 
 
-- GitHub: [@mprotic123](https://github.com/mprotic123)
+- Github :  [@mprotic123](https://github.com/mprotic123)<br>
+- Linkdn :  [Milan Protić](https://www.linkedin.com/in/milan-proti%C4%87-040364213/)<br>
 - Twitter: [@proticm98](https://twitter.com/proticm98)
 
-## Show your support
+👤 **Daniel Owiri**
 
+- GitHub: [@DannieMo](https://github.com/DannieMo)
+- LinkedIn: [Daniel Majesty Owiri](linkedin.com/in/daniel-majesty-owiri-85175616b)
+
+
+
+# 🤝 Contributing
+Contributions, isses, and feature requests are welcome!
+Feel free to check the issues page.
+
+# Show your support
 Give a ⭐️ if you like this project!
 
-## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+# 📝 License
+This project is MIT licensed.
