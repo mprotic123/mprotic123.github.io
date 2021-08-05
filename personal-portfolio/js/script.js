@@ -6,6 +6,7 @@ menu_btn.addEventListener('click', function () {
   mobile_menu.classList.toggle('is-active');
 });
 
+
 function myFunction() {
   var x = document.getElementById("menu2");
   if(menu_btn.classList.contains('is-active') && mobile_menu.classList.contains('is-active')){
