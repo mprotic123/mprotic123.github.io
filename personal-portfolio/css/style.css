@@ -139,9 +139,10 @@ ul {
   padding: 9px;
   list-style: none;
 }
+
 .mobile-nav ul li a {
   text-decoration: none;
-  color: #3A4A42;
+  color: #3a4a42;
 }
 
 .mobile-nav.is-active {
