@@ -1731,6 +1731,31 @@ li.skills {
     border-radius: 8px;
   }
 
+  .modal-section .modal-container {
+    z-index: 999;
+    background-color: white;
+    position: relative;
+  }
+  .modal-section .modal-content {
+    padding: 15px;
+  }
+  .modal-section .times {
+    color: white;
+    position: absolute;
+    font-size: 38px;
+    margin-left: 273px;
+    margin-top: 7px;
+    cursor: pointer;
+  }
+  .modal-section .modal-title {
+    width: 259px;
+    height: 135px;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 44px;
+    color: #172B4D;
+  }
+
   .modal-section .times {
     color: white;
     position: absolute;
