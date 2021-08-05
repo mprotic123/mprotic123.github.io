@@ -6,13 +6,11 @@ menu_btn.addEventListener('click', function () {
   mobile_menu.classList.toggle('is-active');
 });
 
-
 function myFunction() {
   var x = document.getElementById("menu2");
   if(menu_btn.classList.contains('is-active') && mobile_menu.classList.contains('is-active')){
-    x.style.display = "none";
-    menu_btn.classList.toggle('is-active');
-    mobile_menu.classList.toggle('is-active');
+    document.getElementById("ham2").className = "hamburger";
+    document.getElementById("menu2").className = "mobile-nav";
   }
 
   else
