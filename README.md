@@ -1,4 +1,4 @@
-# Milan Protic's Personal-Portfolio - Mobile Menu
+# Milan Protic's Personal-Portfolio - Pop-up window
 
 ![screenshot](./app_screenshot.png)
 
