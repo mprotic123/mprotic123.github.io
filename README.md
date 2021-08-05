@@ -15,6 +15,7 @@
 
 # LIVE DEMO
 
+- [Personal Portfolio](https://mprotic123.github.io/personal-portfolio)
 
 # AUTHORS
 
