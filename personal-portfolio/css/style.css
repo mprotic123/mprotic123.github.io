@@ -1530,6 +1530,10 @@ li.skills {
   #form .form-btn {
     margin-left: 54% !important;
   }
+
+  .modal-section .times {
+    margin-left: 25rem;
+  }
 }
 
 @media screen and (min-width: 1025px) and (max-width: 1238px) {
@@ -1698,6 +1702,7 @@ li.skills {
 .modal-section .btn {
   margin: 20px 0;
   border-radius: 4px;
+  display: contents;
 }
 
 .modal-section .btn a {
@@ -1737,9 +1742,14 @@ li.skills {
   .modal-section .modal-container .modal-content .prj-img-1 {
     display: none;
   }
+
+  .modal-section .btn {
+    margin-top: -25rem;
+    float: right;
+  }
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 766px) {
   .modal-section .modal-container .modal-content .prj-img {
     display: none;
   }
@@ -1761,25 +1771,18 @@ li.skills {
 
   .modal-section .times {
     font-size: 46px;
-    margin-left: 93%;
+    margin-left: 90%;
+    background-color: lightgray;
   }
 
   .modal-section .modal-title {
     width: 60%;
     font-size: 32px;
     line-height: 44px;
-  }
-
-  .modal-section .modal-list {
-    margin-top: -2rem;
+    margin-top: 10%;
   }
 
   .modal-section .modal-paragraph {
     width: 100%;
-  }
-
-  .modal-section .btn {
-    margin-top: -16.5rem;
-    float: right;
   }
 }
