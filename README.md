@@ -1,5 +1,13 @@
 # Milan Protic's Personal-Portfolio
 
+- Desktop version:
+![screenshot](./desktop_version_screenshot.png)
+
+- Mobile version:
+
+![screenshot](./mobile_version_screenshot.png)
+
+
 # BUILT WITH
 - HTML
 - CSS
