@@ -1,4 +1,4 @@
-# Milan Protic's Personal-Portfolio - Pop-up window
+# Milan Protic's Personal-Portfolio - Contact form validation
 
 ![screenshot](./app_screenshot.png)
 
