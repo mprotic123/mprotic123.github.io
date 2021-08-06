@@ -3,7 +3,8 @@
 - Desktop version:
 ![screenshot](./app_screenshot.png)
 
-- Mobile version: 
+- Mobile version:
+
 ![screenshot](./mobile_screenshot.png)
 
 # BUILT WITH
