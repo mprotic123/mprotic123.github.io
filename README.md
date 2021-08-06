@@ -1,6 +1,11 @@
 # Milan Protic's Personal-Portfolio - Pop-up window
 
+- Desktop version:
 ![screenshot](./app_screenshot.png)
+
+- Mobile version:
+
+![screenshot](./mobile_screenshot.png)
 
 # BUILT WITH
 - HTML
