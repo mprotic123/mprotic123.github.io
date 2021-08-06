@@ -4,6 +4,7 @@
 ![screenshot](./desktop_version_screenshot.png)
 
 - Mobile version:
+
 ![screenshot](./mobile_version_screenshot.png)
 
 
