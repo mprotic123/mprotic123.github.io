@@ -31,3 +31,7 @@ if (localStorage.getItem('full-name')) {
 
 
 formLocally.addEventListener('submit', storageLocally, preFillData);
+
+inputName.onchange = storageLocally;
+inputEmail.onchange = storageLocally;
+inputMessage.onchange = storageLocally;
