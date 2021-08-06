@@ -1758,4 +1758,26 @@ li.skills {
     width: 100%;
     border-radius: 8px;
   }
+
+  .modal-section .times {    
+    font-size: 46px;    
+    margin-left: 93%;  
+  }
+
+  .modal-section .modal-title {    
+    width: 60%;    
+    font-size: 32px;    
+    line-height: 44px;  
+  }
+
+  .modal-section .modal-list {    
+    margin-top: -2rem;  
+  }
+  .modal-section .modal-paragraph {    
+    width: 100%;  
+  }
+  .modal-section .btn {    
+    margin-top: -16.5rem;    
+    float: right;  
+  }
 }
