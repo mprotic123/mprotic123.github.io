@@ -1,6 +1,12 @@
-# Milan Protic's Personal-Portfolio - Contact form validation
+# Milan Protic's Personal-Portfolio
 
-![screenshot](./app_screenshot.png)
+- Desktop version:
+![screenshot](./desktop_version_screenshot.png)
+
+- Mobile version:
+
+![screenshot](./mobile_version_screenshot.png)
+
 
 # BUILT WITH
 - HTML
