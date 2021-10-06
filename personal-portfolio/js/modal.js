@@ -1,3 +1,10 @@
+/* eslint-disable id-length */
+/* eslint-disable no-magic-numbers */
+/* eslint-disable max-statements */
+/* eslint-disable func-style */
+/* eslint-disable max-len */
+/* eslint-disable sort-keys */
+
 const projectList = {
   'firstProject': {
     'image': {

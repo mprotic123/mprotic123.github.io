@@ -366,50 +366,20 @@
           to chat please get in touch.
         </h3>
       </div>
-      <form
-        id="form"
-        name="simple-contact"
-        accept-charset="utf-8"
-        action="https://formspree.io/f/mwkanavz"
-        method="POST"
-      >
+      <form id="form" name="simple-contact" accept-charset="utf-8" action="https://formspree.io/f/mwkanavz" method="POST">
         <fieldset id="fieldset-inputs">
           <div class="full-name">
-            <input
-              type="text"
-              name="name"
-              id="full-name"
-              placeholder="Full name"
-              maxlength="30"
-              required
-            />
-            <input
-              class="lname"
-              type="text"
-              name="name"
-              id="Last-name"
-              placeholder="Last name"
-              maxlength="30"
-              required
-            />
+            <input type="text" name="name" id="full-name" placeholder="Full name" maxlength="30" required />
+            <input class="lname" type="text" name="name" id="Last-name" placeholder="Last name" maxlength="30" required />
           </div>
-          <input
-            type="email"
-            name="email"
-            id="email-address"
-            placeholder="Email address"
-            required
-          />
-          <textarea
-            rows="5"
-            name="message"
-            id="message"
-            placeholder="Enter text here"
-            maxlength="500"
-            required
-          ></textarea>
+          <input type="email" name="email" id="email-address" placeholder="Email address" required />
+          <textarea rows="5" name="message" id="message" placeholder="Enter text here" maxlength="500"
+            required></textarea>
+          <p class="email-msg"></p>
         </fieldset>
-        <input class="form-btn" type="button" value="Get in touch" />
+        <p class="email-msg"></p>
+        <input class="form-btn" type="submit" value="Get in touch" />
+  
       </form>
 
       <hr id="hr" />
@@ -441,5 +411,7 @@
     </section>
     <script src="js/script.js"></script>
     <script src="js/modal.js"></script>
+    <script src="js/validation.js"></script>
+    <script src="js/localstorage.js"></script>
   </body>
 </html>
