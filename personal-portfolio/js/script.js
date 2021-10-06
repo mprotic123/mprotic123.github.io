@@ -8,7 +8,7 @@ menu_btn.addEventListener('click', function () {
 
 function myFunction() {
   var x = document.getElementById("menu2");
-  if(menu_btn.classList.contains('is-active') && mobile_menu.classList.contains('is-active')){
+  if(menu_btn.classList.contains('is-active') && mobile_menu.classList.contains('is-active')){ //is menu opened
     document.getElementById("ham2").className = "hamburger";
     document.getElementById("menu2").className = "mobile-nav";
   }
