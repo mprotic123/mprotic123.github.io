@@ -1666,6 +1666,7 @@ li.skills {
   z-index: 999;
   background-color: white;
   position: relative;
+  padding-bottom: 300px;
 }
 
 .modal-section .modal-content {
@@ -1718,10 +1719,14 @@ li.skills {
   font-weight: 400;
 }
 
+#description {
+  background-color: white;
+}
+
 .modal-section .btn {
-  margin: 20px 0;
   border-radius: 4px;
-  display: contents;
+  margin-top: -55%;
+  padding-left: 63%;
 }
 
 .modal-section .btn a {
@@ -1762,9 +1767,14 @@ li.skills {
     display: none;
   }
 
+  .modal-section .modal-container {
+    padding-bottom: 160px;
+  }
+
   .modal-section .btn {
-    margin-top: -25rem;
-    float: right;
+    margin-top: 1%;
+    padding-left: 10px;
+    margin-bottom: -100px;
   }
 }
 
@@ -1803,6 +1813,7 @@ li.skills {
 
   .modal-section .modal-paragraph {
     width: 100%;
+    margin-bottom: 150px;
   }
 }
 
